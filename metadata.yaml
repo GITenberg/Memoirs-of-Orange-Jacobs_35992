@@ -1,0 +1,30 @@
+_repo: Memoirs-of-Orange-Jacobs_35992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacobs, Orange
+    alias: Jacobs, O. (Orange)
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '38018'
+    url: http://www.gutenberg.org/2009/agents/38018
+    wikipedia: http://en.wikipedia.org/wiki/Orange_Jacobs
+description: ''
+gutenberg_issued: '2011-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35992'
+  lccn: '17019093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Frontier and pioneer life -- Washington (State)'
+- !lcsh 'Frontier and pioneer life -- Oregon'
+title: Memoirs of Orange Jacobs
+url: http://www.gutenberg.org/ebooks/35992
